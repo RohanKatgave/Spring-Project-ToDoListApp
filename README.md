@@ -25,18 +25,8 @@ This is a simple ToDo list application built using Spring Boot. It provides basi
 ## Setup
 
 1. Clone the repository:
-
-git clone https://github.com/yourusername/todo-list.git
-
-css
-Copy code
-
+      
 2. Navigate to the project directory:
-
-cd todo-list
-
-markdown
-Copy code
 
 3. Open the project in your IDE.
 
@@ -44,17 +34,7 @@ Copy code
 
 5. Build the project using Maven:
 
-mvn clean install
-
-markdown
-Copy code
-
 6. Run the application:
-
-mvn spring-boot:run
-
-vbnet
-Copy code
 
 7. Access the application at `http://localhost:8080`.
 ## Usage
